@@ -60,6 +60,7 @@ ActiveRecord::Schema.define(version: 2021_07_29_135355) do
     t.string "message"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "likes", default: 0
     t.bigint "user_id", null: false
     t.index ["user_id"], name: "index_posts_on_user_id"
   end

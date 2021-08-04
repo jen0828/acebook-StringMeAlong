@@ -20,6 +20,6 @@ feature "Profile" do
 #     #  expect(page).to have_content('Mike')
 #     expect(page).to have_content('Location: Catsville')
 #   end
-# end
+end
 
 # fill_in 'course_group_courses_attributes_2_name', :with => 'some text'
