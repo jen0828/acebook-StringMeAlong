@@ -25,7 +25,7 @@
 
 ## <a name="Screenshots">Screenshots</a>
 
-![home](./Images/home.png)
+![home](https://user-images.githubusercontent.com/79845719/133289752-93490b03-a30b-4563-8cd6-5345bb0aa05c.png)
 ![app](https://raw.githubusercontent.com/frank-mck/acebook-rails/master/Images/2021-08-31%2009.14.36.gif)
 
 
