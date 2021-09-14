@@ -2,6 +2,7 @@
 ### [Makers Academy](http://www.makersacademy.com) - Week 8 Group Project
 
 ## Index
+* [Screenshots](#Screenshots)
 * [Technologies](#Technologies)
 * [Installation](#Install)
 * [Mockup](#Mockup)
@@ -21,6 +22,12 @@
 - A user's name and a little photo of them appears next to their posts
 - Users can navigate the website with a nav bar at the top of the page
 - Users can upload photos and see them just like posts
+
+## <a name="Screenshots">Screenshots</a>
+
+![home](./Images/home.png)
+![app](https://raw.githubusercontent.com/frank-mck/acebook-rails/master/Images/2021-08-31%2009.14.36.gif)
+
 
 ## <a name="Technologies">Technologies</a>
 * Ruby
